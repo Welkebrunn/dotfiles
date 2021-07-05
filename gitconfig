@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = martinlechner89@outlook.de
+	name = Martin Lechner
